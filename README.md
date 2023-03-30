@@ -11,28 +11,29 @@ This repository contains the following Deep Learning projects:
 
 1. Breast Cancer Classification with Neural Network 🩺🧪
 
-This project involves building a Neural Network model to classify breast cancer using the Wisconsin Breast Cancer dataset.
+  This project involves building a Neural Network model to classify breast cancer using the Wisconsin Breast Cancer dataset.
 
 2. Processing Image data in Python for Deep Learning Applications 📷🐍
 
-This project demonstrates how to preprocess image data using Python for Deep Learning applications.
+  This project demonstrates how to preprocess image data using Python for Deep Learning applications.
 
 3. MNIST Digit Classification with Neural Network 🔢🧮
 
-This project involves building a Neural Network model to classify handwritten digits from the MNIST dataset.
+  This project involves building a Neural Network model to classify handwritten digits from the MNIST dataset.
 
 4. Dog vs Cat Classification using Transfer Learning 🐶🐱🧠
 
-This project involves using transfer learning to classify images of dogs and cats using the VGG16 model.
+  This project involves using transfer learning to classify images of dogs and cats using the VGG16 model.
 
 5. CIFAR - 10 Object Recognition using ResNet50 🚗🚲🎨
 
-This project involves building a Deep Learning model using ResNet50 to classify objects in the CIFAR-10 dataset.
+  This project involves building a Deep Learning model using ResNet50 to classify objects in the CIFAR-10 dataset.
 
 6. Face Mask Detection using Convolutional Neural Network (CNN) 😷👤🧑‍🤝‍🧑
 
-This project involves building a CNN model to detect whether a person is wearing a face mask or not using the Face Mask Detection dataset.
-Link: https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
+  This project involves building a CNN model to detect whether a person is wearing a face mask or not using the Face Mask Detection dataset.
+
+  Link: https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 
 Note: Some projects may not have links. The dataset files for these projects are stored in the csv folder of the repository.
 
