@@ -35,7 +35,7 @@ This repository contains the following Deep Learning projects:
 
   Link: https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
 
-Note: Some projects may not have links. The dataset files for these projects are stored in the csv folder of the repository.
+Note: some projects do not have links. The dataset files for these projects are uploaded in the same repository . And some datasets are directly used from packages.
 
 Acknowledgments
 Some of the datasets used in these projects are sourced from Kaggle, and others were found through Google. Special thanks to the contributors of these datasets for making them publicly available.
